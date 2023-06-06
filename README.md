@@ -3,7 +3,7 @@
 <html>
 <body>
   <p>
-    This project is designed to help you gain practical experience in configuring small-scale networks and understanding TCP/IP addressing. It consists of 10 levels or exercises that need to be completed and submitted via a Git repository.
+    This project is designed to help you gain practical experience in configuring small-scale networks and understanding TCP/IP addressing. It consists of 10 levels or exercises that need to be completed.
   </p>
   <h2>Getting Started:</h2>
   <ol>
